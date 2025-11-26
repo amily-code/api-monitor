@@ -25,4 +25,4 @@
 - GET `/api/monitor/health` - 服务健康检查
 - GET `/api/monitor/test` - 测试接口
 - GET `/api/monitor/check?url={url}` - 简单API监控
-- GET `/api/monitor/check-detailed?url={url}` - 详细API监控(JSON格式)
+- GET `/api/monitor/check-detailed?url={url}` - 详细API监控(JSON格式)"# api-monitor" 
